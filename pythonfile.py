@@ -10,4 +10,5 @@ def multiplication(n1, n2):
 def divide(n1, n2):
     return n1 // n2
 
-
+def cube(n):
+    return n**3
