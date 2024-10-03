@@ -12,3 +12,6 @@ def divide(n1, n2):
 
 def square(n):
     return n**2
+
+def cube(n):
+    return n**3
